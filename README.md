@@ -198,7 +198,7 @@
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy"
     ><img
-      src="https://github-profile-trophy.vercel.app/?username=mohduzaif"
+      src="https://github-profile-trophy.vercel.app/?username=mohduzaif](https://github-profile-trophy.vercel.app/?username=ryo-ma&title=Followers)"
       alt="mohduzaif"
   /></a>
 </p>
