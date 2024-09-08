@@ -171,11 +171,7 @@
 </p>
 
 <div style="padding-top: 50px;">
-  <div style="
-  display: flex;
-  align-items: center;
-  justify-content: center;
-">
+  <div style="display: flex; align-items: center; justify-content: center;">
     <p>
       <img
         align="left"
@@ -200,11 +196,7 @@
   </p>
   </div>
 
-<p style="
-display: flex;
-align-items: center;
-justify-content: center;
-">
+<p style="display: flex; align-items: center; justify-content: center;">
   <img
     align="center"
     src="https://github-readme-streak-stats.herokuapp.com/?user=mohduzaif&theme=onedark"
