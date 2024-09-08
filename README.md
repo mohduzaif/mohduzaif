@@ -1,3 +1,6 @@
+[![MasterHead]([https://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7))](https://KnighhtRider.io)
+
+
 <h1 align="center">Hi 👋, I'm Mohd Uzaif</h1>
 <h3 align="center">A passionate about DATA ANALYST</h3>
 
