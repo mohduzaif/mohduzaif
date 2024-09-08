@@ -170,7 +170,7 @@
   
 </p>
 
-<div style="padding-top: 50px;">
+<div align="center" style="padding-top: 50px;">
   <div align="center" style="display: flex; align-items: center; justify-content: center;">
     <p>
       <img
