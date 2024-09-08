@@ -67,7 +67,7 @@
         width="40"
         height="40"
       />
-    </a>  &nbps &nbps &nbps &nbps
+    </a> &nbsp;&nbsp;&nbsp;&nbsp;
 
 
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
@@ -77,7 +77,7 @@
       width="40"
       height="40"
     />
-  </a>
+  </a> &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
@@ -85,7 +85,7 @@
       width="40"
       height="40"
     />
-  </a>
+  </a> &nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img
@@ -94,7 +94,7 @@
       width="40"
       height="40"
     />
-  </a>
+  </a> &nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img
@@ -103,7 +103,7 @@
       width="40"
       height="40"
     />
-  </a>
+  </a> &nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
     <img
@@ -112,7 +112,7 @@
       width="40"
       height="40"
     />
-  </a>
+  </a> &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"
@@ -120,7 +120,7 @@
       width="40"
       height="40"
     />
-  </a>
+  </a> &nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
     <img
@@ -129,7 +129,7 @@
       width="40"
       height="40"
     />
-  </a>
+  </a> &nbsp;&nbsp;&nbsp;&nbsp;
 
 
 
@@ -141,7 +141,7 @@
       width="40"
       height="40"
     />
-  </a>
+  </a> &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
@@ -149,7 +149,7 @@
       width="40"
       height="40"
     />
-  </a>
+  </a> &nbsp;&nbsp;&nbsp;&nbsp;
   
   
   
@@ -160,7 +160,7 @@
       width="40"
       height="40"
     />
-  </a>
+  </a> &nbsp;&nbsp;&nbsp;&nbsp;
 
   
 </p>
