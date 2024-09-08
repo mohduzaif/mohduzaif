@@ -171,12 +171,19 @@
 </p>
 
 <p>
-  <img
-    align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=mohduzaif&show_icons=true&locale=en&layout=compact"
-    alt="mohduzaif"
-  />
-</p>
+      <img
+        align="left"
+        style="
+        position: relative;
+    "
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=mohduzaif&show_icons=true&locale=en&layout=compact&theme=onedark"
+        alt="mohduzaif"
+        height="195"
+      />
+    
+      
+    
+  </p>
 
 <p>
   &nbsp;<img
@@ -198,7 +205,7 @@
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy"
     ><img
-      src="https://github-profile-trophy.vercel.app/?username=mohduzaif](https://github-profile-trophy.vercel.app/?username=ryo-ma&title=Followers)"
+      src="https://github-profile-trophy.vercel.app/?username=mohduzaif"
       alt="mohduzaif"
   /></a>
 </p>
