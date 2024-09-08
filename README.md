@@ -171,39 +171,31 @@
 </p>
 
 <div align="center" style="padding-top: 50px;">
-  <div align="center" style="display: flex; align-items: center; justify-content: center;">
-    <p>
-      <img
-        align="left"
-        style="
-        position: relative;
-    "
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=mohduzaif&show_icons=true&locale=en&layout=compact&theme=onedark"
-        alt="mohduzaif"
-        height="195"
-      />
-    
-      
-    
-  </p>
-  
   <p>
-    &nbsp;<img
-      align="center"
-      src="https://github-readme-stats.vercel.app/api?username=mohduzaif&show_icons=true&locale=en&theme=onedark"
+    <img 
+      height="165"
+      src="https://github-readme-stats.vercel.app/api?username=mohduzaif&show_icons=true&theme=tokyonight&locale=en"
+      alt="mohduzaif"
+    />
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs?username=mohduzaif&show_icons=true&theme=tokyonight&locale=en&layout=compact"
       alt="mohduzaif"
     />
   </p>
-  </div>
-
-<p style="display: flex; align-items: center; justify-content: center;">
-  <img
-    align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=mohduzaif&theme=onedark"
-    alt="mohduzaif"
-  />
-</p>
-</div>
+  <p>
+    <img
+      src="https://github-readme-streak-stats.herokuapp.com/?user=mohduzaif&theme=tokyonight"
+      alt="mohduzaif"
+    />
+  </p>
+  
+  <p>
+    <img
+      src="https://komarev.com/ghpvc/?username=mohduzaif&label=Profile%20views&color=0e75b6&style=flat"
+      alt="mohduzaif"
+    />
+  </p>
+</div> <br>
 
 
 <p align="left" style="
