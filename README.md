@@ -17,13 +17,12 @@
   /></a>
 </p>
 
-- 🔭 I’m currently working on **Global Terrorism Dataset** - 🌱 I’m currently
-learning **ML & AI, Python and Data Visualization Tools** - 👨‍💻 All of my
-projects are available at
-[portfolio](https://mohduzaif.github.io/Uzaif_Portfolio/)
-- 💬 Ask me about **ML & AI** - 📫 How to reach me **mohduzaif.jmi@gmail.com** -
-📄 Know about my experiences
-[resume](https://colab.research.google.com/drive/1eyIGnTyG0oZA9CzyRNw2f4jQTINwOkgG?usp=sharing)
+- 🔭 I’m currently working on **Global Terrorism Dataset** 
+- 🌱 I’m currently learning **ML & AI, Python and Data Visualization Tools** 
+- 👨‍💻 All of my projects are available at [portfolio](https://mohduzaif.github.io/Uzaif_Portfolio/)
+- 💬 Ask me about **ML & AI** 
+- 📫 How to reach me **mohduzaif.jmi@gmail.com** 
+- 📄 Know about my experiences [resume](https://colab.research.google.com/drive/1eyIGnTyG0oZA9CzyRNw2f4jQTINwOkgG?usp=sharing)
 - ⚡ Fun fact **while(infinite): Eat(), Sleep(), Code(), Repeat()**
 
 <h3 align="left">Connect with me:</h3>
@@ -66,6 +65,7 @@ projects are available at
 
 
 <p align="left" style="padding-left: 10px;">
+  
     <a href="https://www.python.org" target="_blank" rel="noreferrer">
         <img
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
