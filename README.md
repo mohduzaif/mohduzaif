@@ -170,7 +170,13 @@
   
 </p>
 
-<p>
+<div>
+  <div style="
+  display: flex;
+  align-items: center;
+  justify-content: center;
+">
+    <p>
       <img
         align="left"
         style="
@@ -184,29 +190,38 @@
       
     
   </p>
+  
+  <p>
+    &nbsp;<img
+      align="center"
+      src="https://github-readme-stats.vercel.app/api?username=mohduzaif&show_icons=true&locale=en&theme=onedark"
+      alt="mohduzaif"
+    />
+  </p>
+  </div>
 
-<p>
-  &nbsp;<img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api?username=mohduzaif&show_icons=true&locale=en"
-    alt="mohduzaif"
-  />
-</p>
-
-<p>
+<p style="
+display: flex;
+align-items: center;
+justify-content: center;
+">
   <img
     align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=mohduzaif&"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=mohduzaif&theme=onedark"
     alt="mohduzaif"
   />
 </p>
+</div>
 
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"
-    ><img
-      src="https://github-profile-trophy.vercel.app/?username=mohduzaif"
-      alt="mohduzaif"
-  /></a>
+<p align="left" style="
+display: flex;
+align-items: center;
+justify-content: center;
+">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=mohduzaif&theme=onedark"
+    alt="mohduzaif"
+  />
 </p>
 
