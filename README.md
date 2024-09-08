@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohd Uzaif</h1>
 <h3 align="center">A passionate about DATA ANALYST</h3>
 
-<p align="left">
-  <img
-    src="https://komarev.com/ghpvc/?username=mohduzaif&label=Profile%20views&color=0e75b6&style=flat"
-    alt="mohduzaif"
-  />
-</p>
 
 
 <p align="left">
@@ -189,12 +183,7 @@
     />
   </p>
   
-  <p>
-    <img
-      src="https://komarev.com/ghpvc/?username=mohduzaif&label=Profile%20views&color=0e75b6&style=flat"
-      alt="mohduzaif"
-    />
-  </p>
+
 </div> <br>
 
 
@@ -208,3 +197,10 @@ justify-content: center;
     alt="mohduzaif"
   />
 </p>
+
+  <p align="center">
+    <img
+      src="https://komarev.com/ghpvc/?username=mohduzaif&label=Profile%20views&color=0e75b6&style=flat"
+      alt="mohduzaif"
+    />
+  </p>
