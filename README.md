@@ -171,7 +171,7 @@
 </p>
 
 <div style="padding-top: 50px;">
-  <div style="display: flex; align-items: center; justify-content: center;">
+  <div align="center" style="display: flex; align-items: center; justify-content: center;">
     <p>
       <img
         align="left"
