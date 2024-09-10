@@ -22,7 +22,7 @@
   /></a>
 </p>
 
-- 🔭 I’m currently working on **Global Terrorism Dataset** 
+- 🔭 I’m currently working on [**Global Terrorism Dataset**](https://github.com/mohduzaif/Global-Terrorism-Dataset-Exploratory-Data-Analysis-) 
 - 🌱 I’m currently learning **ML & AI, Python and Data Visualization Tools** 
 - 👨‍💻 All of my projects are available at [portfolio](https://mohduzaif.github.io/Uzaif_Portfolio/)
 - 💬 Ask me about **ML & AI** 
