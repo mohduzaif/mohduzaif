@@ -27,7 +27,7 @@
 - 👨‍💻 All of my projects are available at [portfolio](https://mohduzaif.github.io/Uzaif_Portfolio/)
 - 💬 Ask me about **ML & AI** 
 - 📫 How to reach me **mohduzaif.jmi@gmail.com** 
-- 📄 Know about my experiences [resume](https://colab.research.google.com/drive/1eyIGnTyG0oZA9CzyRNw2f4jQTINwOkgG?usp=sharing)
+- 📄 Know about my experiences [resume](https://drive.google.com/file/d/1hiZOJeY8jrfOPCCqVApAfFIQYt9rBZy9/view?usp=sharing)
 - ⚡ Fun fact **while(infinite): Eat(), Sleep(), Code(), Repeat()**
 
 <h3 align="left">Connect with me:</h3>
