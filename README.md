@@ -22,12 +22,12 @@
   /></a>
 </p>
 
-- 🔭 I’m currently working on [**Sales Dataset (Exploratory Data Analysis)**](https://github.com/mohduzaif/Sales-Analysis-Exploratory-Data-Analysis-) 
+- 🔭 I’m currently working on [**Sales Dataset (Exploratory Data Analysis).**](https://github.com/mohduzaif/Sales-Analysis-Exploratory-Data-Analysis-) 
 - 🌱 I’m currently learning **ML & AI, Python and Data Visualization Tools** 
 - 👨‍💻 All of my projects are available at [portfolio](https://mohduzaif.github.io/Uzaif_Portfolio/)
 - 💬 Ask me about **ML & AI** 
 - 📫 How to reach me **mohduzaif.jmi@gmail.com** 
-- 📄 Know about my experiences [resume](https://drive.google.com/file/d/1hiZOJeY8jrfOPCCqVApAfFIQYt9rBZy9/view?usp=sharing)
+- 📄 Know more about my experiences [resume](https://drive.google.com/file/d/1hiZOJeY8jrfOPCCqVApAfFIQYt9rBZy9/view?usp=sharing)
 - ⚡ Fun fact **while(infinite): Eat(), Sleep(), Code(), Repeat()**
 
 <h3 align="left">Connect with me:</h3>
