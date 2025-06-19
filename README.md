@@ -22,7 +22,7 @@
   /></a>
 </p>
 
-- 🔭 I’m currently working on [**Learning Python Programming.**](https://github.com/mohduzaif/Python-Programming) 
+- 🔭 I’m currently working on [**Learning Numpy Library.**](https://github.com/mohduzaif/numpy-tutorials) 
 - 🌱 I’m currently learning **ML & AI, Python and Data Visualization Tools** 
 - 👨‍💻 All of my projects are available at [portfolio](https://mohduzaif.github.io/Uzaif_Portfolio/)
 - 💬 Ask me about **ML & AI** 
