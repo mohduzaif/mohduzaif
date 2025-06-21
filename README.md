@@ -3,7 +3,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Mohd Uzaif</h1>
-<h3 align="center">A passionate about DATA ANALYST</h3>
+<h3 align="center">A passionate about DATA SCIENCE</h3>
 
 <img
   align="right"
