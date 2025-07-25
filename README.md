@@ -22,7 +22,7 @@
   /></a>
 </p>
 
-- 🔭 I’m currently working on [**Build APIs based on IPL Dataset.**](https://github.com/mohduzaif/ipl-api-services) 
+- 🔭 I’m currently working on [**Data Visualization Libaries(Matplotlib, Seaborn, Plotly)**](https://github.com/mohduzaif/data-visualization-python) 
 - 🌱 I’m currently learning **ML & AI, Python and Data Visualization Tools** 
 - 👨‍💻 All of my projects are available at [portfolio](https://mohduzaif.github.io/Uzaif_Portfolio/)
 - 💬 Ask me about **ML & AI** 
