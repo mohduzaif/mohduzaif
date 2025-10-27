@@ -22,7 +22,7 @@
   /></a>
 </p>
 
-- 🔭 I’m currently working on [**Data Wrangling Process**](https://github.com/mohduzaif/data-access-and-data-cleaning) 
+- 🔭 I’m currently working on [**Mathematics for Machine Learning**](https://github.com/mohduzaif/mathematics-for-machine-learning) 
 - 🌱 I’m currently learning **ML & AI, Python and Data Visualization Tools** 
 - 👨‍💻 All of my projects are available at [portfolio](https://mohduzaif.github.io/Uzaif_Portfolio/)
 - 💬 Ask me about **ML & AI** 
