@@ -174,7 +174,7 @@
   </a> &nbsp;&nbsp;&nbsp;&nbsp;
 
   
-</p>
+<!-- </p>
 
 <div align="center" style="padding-top: 50px;">
   <p>
@@ -193,13 +193,14 @@
       src="https://github-readme-streak-stats.herokuapp.com/?user=mohduzaif&theme=tokyonight"
       alt="mohduzaif"
     />
-  </p>
+  </p> -->
   
 
-</div> <br>
+<!-- </div> <br> -->
 
-
-<p align="left" style="
+<br>
+<br>
+<!-- <p align="left" style="
 display: flex;
 align-items: center;
 justify-content: center;
@@ -208,7 +209,7 @@ justify-content: center;
     src="https://github-profile-trophy.vercel.app/?username=mohduzaif&theme=onedark"
     alt="mohduzaif"
   />
-</p>
+</p> -->
 
   <p align="center">
     <img
