@@ -22,7 +22,7 @@
   /></a>
 </p>
 
-- 🔭 I’m currently working on [**Credit Risk Modeling using ML**](https://github.com/mohduzaif/credit-risk-multiclass-model) 
+- 🔭 I’m currently working on [**Feature Selection Technique in Machine Learning**](https://github.com/mohduzaif/feature-selection-techniques) 
 - 🌱 I’m currently learning **ML & AI, Python and Data Visualization Tools** 
 - 👨‍💻 All of my projects are available at [portfolio](https://mohduzaif.github.io/Uzaif_Portfolio/)
 - 💬 Ask me about **ML & AI** 
