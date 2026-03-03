@@ -22,7 +22,7 @@
   /></a>
 </p>
 
-- 🔭 I’m currently working on [**KNN from Scratch and sklearn**](https://github.com/mohduzaif/knn-from-scratch-and-sklearn) 
+- 🔭 I’m currently working on [**Model Selection and Evaluation**](https://github.com/mohduzaif/model-evaluation-and-selection) 
 - 🌱 I’m currently learning **ML & AI, Python and Data Visualization Tools** 
 - 👨‍💻 All of my projects are available at [portfolio](https://mohduzaif.github.io/Uzaif_Portfolio/)
 - 💬 Ask me about **ML & AI** 
