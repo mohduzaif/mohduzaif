@@ -22,7 +22,7 @@
   /></a>
 </p>
 
-- 🔭 I’m currently working on [**Model Selection and Evaluation**](https://github.com/mohduzaif/model-evaluation-and-selection) 
+- 🔭 I’m currently working on [**Logistic Regression from Scratch**](https://github.com/mohduzaif/logistic-regression-from-scratch-to-sklearn/tree/main) 
 - 🌱 I’m currently learning **ML & AI, Python and Data Visualization Tools** 
 - 👨‍💻 All of my projects are available at [portfolio](https://mohduzaif.github.io/Uzaif_Portfolio/)
 - 💬 Ask me about **ML & AI** 
