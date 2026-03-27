@@ -22,7 +22,7 @@
   /></a>
 </p>
 
-- 🔭 I’m currently working on [**Logistic Regression from Scratch**](https://github.com/mohduzaif/logistic-regression-from-scratch-to-sklearn/tree/main) 
+- 🔭 I’m currently working on [**Concept of Support Vector Machine(SVM)**](https://github.com/mohduzaif/SVM-from-scratch-and-scikit-learn) 
 - 🌱 I’m currently learning **ML & AI, Python and Data Visualization Tools** 
 - 👨‍💻 All of my projects are available at [portfolio](https://mohduzaif.github.io/Uzaif_Portfolio/)
 - 💬 Ask me about **ML & AI** 
