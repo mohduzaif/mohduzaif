@@ -22,7 +22,7 @@
   /></a>
 </p>
 
-- 🔭 I’m currently working on [**Concept of Support Vector Machine(SVM)**](https://github.com/mohduzaif/SVM-from-scratch-and-scikit-learn) 
+- 🔭 I’m currently working on [**Decision Tree Intuition and Implementation**](https://github.com/mohduzaif/decision-tree-intuition-and-implementation) 
 - 🌱 I’m currently learning **ML & AI, Python and Data Visualization Tools** 
 - 👨‍💻 All of my projects are available at [portfolio](https://mohduzaif.github.io/Uzaif_Portfolio/)
 - 💬 Ask me about **ML & AI** 
