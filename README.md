@@ -22,7 +22,7 @@
   /></a>
 </p>
 
-- 🔭 I’m currently working on [**Random Forest Intuition and Implementation**](https://github.com/mohduzaif/random-forest-intuition-and-implementation) 
+- 🔭 I’m currently working on [**Gradient Boosting Intuition and Implementation**](https://github.com/mohduzaif/gradient-boosting-intuition-and-implementation-) 
 - 🌱 I’m currently learning **ML & AI, Python and Data Visualization Tools** 
 - 👨‍💻 All of my projects are available at [portfolio](https://mohduzaif.github.io/Uzaif_Portfolio/)
 - 💬 Ask me about **ML & AI** 
