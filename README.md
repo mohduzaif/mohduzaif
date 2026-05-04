@@ -9,34 +9,56 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 M.Tech (AI & ML) @ Jamia Millia Islamia  
-- 📊 Passionate about **Data Science & Machine Learning**
-- 🔍 Currently working on [**XGBoost Intuition & Implementation**](https://github.com/mohduzaif/xgboost-intuition-and-implementation).
-- 🌱 Learning **Machine Learning, Deep Learning, and Advanced AI**
-- ⚡ Fun fact: `Eat → Sleep → Code → Repeat`
+I'm a **Data Science & Machine Learning enthusiast** currently pursuing my **M.Tech in AI & ML at Jamia Millia Islamia**. I enjoy building practical and scalable machine learning solutions, with a strong focus on understanding the intuition behind algorithms.
+
+I have worked on projects involving **XGBoost, data analysis, and model optimization**, where I focus not just on implementation but also on explaining the underlying concepts clearly.
+
+Currently, I'm exploring **Machine Learning, Deep Learning, and advanced AI techniques**, while continuously improving my problem-solving and development skills.
+
+- 🎯 Focused on Machine Learning, Data Science & AI  
+- 🚀 Building and experimenting with real-world ML projects  
+- 📫 Reach me at: **mohduzaif.jmi@gmail.com**
+- ⚡ **Gate Qualified 2024 & 2025**
 
 ---
 
 ## 🚀 Tech Stack
 
-<p align="center">
-
-<!-- Programming Languages -->
-<img src="https://skillicons.dev/icons?i=python,c,cpp" /><br><br>
-
-<!-- ML & Data Libraries (custom icons) -->
+### 🧠 AI / ML & Data Science
+<p>
+<img src="https://skillicons.dev/icons?i=python" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" height="50"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" height="50"/>
 <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="50"/>
-
-<!-- ML Frameworks -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="50"/><br><br>
-<img src="https://skillicons.dev/icons?i=tensorflow" height="50"/>
-
-<!-- Tools -->
-<img src="https://skillicons.dev/icons?i=git,github" />
-
+<img src="https://matplotlib.org/_static/images/logo2.svg" height="50"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="50"/>
+<img src="https://skillicons.dev/icons?i=tensorflow" />
 </p>
+
+---
+
+### 💻 Programming Languages
+<p>
+<img src="https://skillicons.dev/icons?i=python,c,cpp" />
+</p>
+
+---
+
+### ⚙️ Tools & Version Control
+<p>
+<img src="https://skillicons.dev/icons?i=git,github" />
+</p>
+
+---
+
+## 📌 Featured Project
+
+🔗 **XGBoost Intuition & Implementation**  
+👉 https://github.com/mohduzaif/xgboost-intuition-and-implementation
+
+✔️ Implemented XGBoost from scratch  
+✔️ Explained math intuition + working  
+✔️ Compared with other ML models  
 
 ---
 
@@ -49,13 +71,6 @@
 
 ---
 
-## 📊 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohduzaif&layout=compact&theme=tokyonight"/>
-</p>
-
----
 
 ## 🌐 Connect With Me
 
@@ -63,6 +78,7 @@
 <a href="https://github.com/mohduzaif"><img src="https://skillicons.dev/icons?i=github"/></a>
 <a href="https://linkedin.com/in/mohduzaif"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
 <a href="mailto:mohduzaif.jmi@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
+<a href="https://x.com/uzaifgaur"><img src="https://skillicons.dev/icons?i=twitter"/></a>
 </p>
 
 ---
