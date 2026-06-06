@@ -51,14 +51,33 @@ Currently, I'm exploring **Machine Learning, Deep Learning, and advanced AI tech
 
 ---
 
-## 📌 Featured Project
+## 🚀 Currently Building
 
-🔗 **XGBoost Intuition & Implementation**  
-👉 https://github.com/mohduzaif/xgboost-intuition-and-implementation
+### 🤖 InfluenceIQ-Comment-Intelligence
 
-✔️ Implemented XGBoost from scratch  
-✔️ Explained math intuition + working  
-✔️ Compared with other ML models  
+An AI-powered platform that analyzes YouTube comments using NLP and Machine Learning to generate audience insights.
+
+- 📊 Sentiment Analysis
+- 📝 Comment Summarization
+- 🚨 Spam Detection
+- 📈 Engagement Analytics
+
+🔗 Repository: [InfluenceIQ-Comment-Intelligence](https://github.com/mohduzaif/InfluenceIQ-Comment-Intelligence)
+
+---
+
+### ⚡ FastAPI Learning Repository
+
+A structured repository documenting my FastAPI learning journey from fundamentals to API development best practices.
+
+- 🔹 Routing & Path Parameters
+- 🔹 Query Parameters
+- 🔹 Request Validation with Pydantic
+- 🔹 HTTP Exceptions & Error Handling
+- 🔹 CRUD API Development
+- 🔹 API Documentation & Testing
+
+🔗 Repository: [fastapi-patient-records-api](https://github.com/mohduzaif/fastapi-patient-records-api)
 
 ---
 
