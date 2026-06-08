@@ -30,7 +30,7 @@ Currently, I'm exploring **Machine Learning, Deep Learning, and advanced AI tech
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" height="50"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" height="50"/>
 <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="50"/>
-<img src="https://matplotlib.org/_static/images/logo2.svg" height="50"/>
+<!-- <img src="https://matplotlib.org/_static/images/logo2.svg" height="50"/> -->
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="50"/>
 <img src="https://skillicons.dev/icons?i=tensorflow" />
 </p>
