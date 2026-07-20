@@ -132,11 +132,17 @@ https://github.com/mohduzaif/mastering-generative-ai-
 # 📈 GitHub Stats
 
 <p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=mohduzaif&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+    height="180"
+    alt="GitHub Stats"
+  />
 
-<img src="https://github-readme-stats.vercel.app/api?username=mohduzaif&show_icons=true&theme=tokyonight" height="180"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mohduzaif&theme=tokyonight" height="180"/>
-
+  <img
+    src="https://streak-stats.demolab.com?user=mohduzaif&theme=tokyonight&hide_border=true"
+    height="180"
+    alt="GitHub Streak"
+  />
 </p>
 
 ---
@@ -144,9 +150,10 @@ https://github.com/mohduzaif/mastering-generative-ai-
 # 📊 Most Used Languages
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohduzaif&layout=compact&theme=tokyonight"/>
-
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohduzaif&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Top Languages"
+  />
 </p>
 
 ---
