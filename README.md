@@ -125,7 +125,7 @@ A comprehensive repository documenting my journey of learning **Generative AI** 
 
 🔗 Repository: **mastering-generative-ai**
 
-https://github.com/mohduzaif/mastering-generative-ai-
+https://github.com/mohduzaif/mastering-generative-ai
 
 ---
 
