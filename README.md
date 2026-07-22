@@ -141,6 +141,17 @@ https://github.com/mohduzaif/mastering-generative-ai
 
 ---
 
+# 🔥 GitHub Streak
+
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats-eight.vercel.app?user=mohduzaif&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
+</p>
+
+---
+
 # 📊 Most Used Languages
 
 <p align="center">
